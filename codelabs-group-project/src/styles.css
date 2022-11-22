@@ -1,4 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
 
+/*
+- Light color to be used is #FFFFFF
+- Primary color is #007E67
+- Dark color is #111111
+
+- Accents to be used are listed below:
+-- #10B981 (lighter green)
+-- #00B49A (a little darker green)
+-- #EC4899 (a pink shade)
+-- #EF4444 (a red shade)
+-- #F97316 (an orange shade)
+
+*/
+
 
 @import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
